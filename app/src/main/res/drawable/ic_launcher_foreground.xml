@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="54"
+        android:translateY="54">
+        <!-- Main Wallet / Card Plate (Offset for isometric 3D feel) -->
+        <path
+            android:fillColor="#0D9488"
+            android:pathData="M-22,-14 L22,-14 A6,6 0 0,1 28,-8 L28,20 A6,6 0 0,1 22,26 L-22,26 A6,6 0 0,1 -28,20 L-28,-8 A6,6 0 0,1 -22,-14 Z" />
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M-24,-18 L20,-18 A6,6 0 0,1 26,-12 L26,16 A6,6 0 0,1 20,22 L-24,22 A6,6 0 0,1 -30,16 L-30,-12 A6,6 0 0,1 -24,-18 Z" />
+        <!-- Card Clasp / Flap -->
+        <path
+            android:fillColor="#047857"
+            android:pathData="M10,-6 L26,-6 A3,3 0 0,1 29,-3 L29,5 A3,3 0 0,1 26,8 L10,8 A6,6 0 0,1 4,2 L4,0 A6,6 0 0,1 10,-6 Z" />
+        <!-- Clasp Gold Dot / Chip -->
+        <path
+            android:fillColor="#FBBF24"
+            android:pathData="M16,1 A3,3 0 1,1 15.9,1 Z" />
+        <!-- Rising Trend Bar chart lines on front of wallet -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillAlpha="0.85"
+            android:pathData="M-22,12 L-18,12 L-18,6 L-22,6 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillAlpha="0.85"
+            android:pathData="M-15,12 L-11,12 L-11,0 L-15,0 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillAlpha="0.95"
+            android:pathData="M-8,12 L-4,12 L-4,-6 L-8,-6 Z" />
+        <!-- Upward Growth Arrow -->
+        <path
+            android:fillColor="#34D399"
+            android:pathData="M-20,0 L-10,-9 L-3,-2 L10,-18 L10,-12 L14,-12 L14,-22 L4,-22 L4,-18 L8,-18 L-3,-5 L-10,-12 L-22,-2 Z" />
+    </group>
+</vector>

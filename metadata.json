@@ -1,0 +1,6 @@
+{
+  "name": "SlicePay",
+  "description": "Professional budget and expenses tracker with category analytics, monthly budgets, account balances, and smart financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
